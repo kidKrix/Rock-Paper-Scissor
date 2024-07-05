@@ -7,3 +7,19 @@
   <li>Random computer moves</li>
   <li>Input validation to ensure a smooth user experience</li>
 </ul>
+
+<h2>Code Overview</h2>
+<p>The main parts of the code include:</p>
+<ul>
+  <li>Initialization of the game </li>
+  <li>User input for their choice (rock, paper, or scissors)</li>
+  <li>Random generation of the computer's choice</li>
+  <ul>Determining the winner based on the classic rules: 
+    <li>Rock crushes Scissors</li>
+    <li>Scissors cut Paper</li>
+    <li>Paper covers Rock</li>
+  </ul>
+</ul>
+
+<h2>Contributions</h2>
+<p>Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.</p>
