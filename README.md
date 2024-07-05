@@ -14,8 +14,9 @@
   <li>Initialization of the game </li>
   <li>User input for their choice (rock, paper, or scissors)</li>
   <li>Random generation of the computer's choice</li>
-  <li><ul>Determining the winner based on the classic rules: </li>
-    <li>Rock crushes Scissors</li>
+  <li>Determining the winner based on the classic rules: </li>
+  <ul>  
+  <li>Rock crushes Scissors</li>
     <li>Scissors cut Paper</li>
     <li>Paper covers Rock</li>
   </ul>
